@@ -1,0 +1,13 @@
+h1
+{
+    text-align: center;
+    font-weight:700 ;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+p
+{
+    text-align: center;
+    background-color: red;
+    color: green;
+}
